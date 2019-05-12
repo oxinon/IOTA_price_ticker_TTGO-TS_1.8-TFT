@@ -6,10 +6,6 @@ Simple IOTA price ticker by using TTGO-TS_1.8 TFT and CoinMarketcap API for Ardu
 IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 <br>
 <br>
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/BTC-ticker.png" alt="Cover" width="100"></p>
-BTC ticker on Youtube: https://www.youtube.com/watch?v=0brdvBQd6Ao&t=9s
-<br>
-<br>
 
 * * *
 
