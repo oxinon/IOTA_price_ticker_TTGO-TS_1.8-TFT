@@ -4,7 +4,7 @@
 Simple IOTA price ticker by using TTGO-TS_1.8 TFT and CoinMarketcap API for Arduino IDE
 <br>
 
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/IOTA-ticker.png" alt="Cover" width="100"></p>
+<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Ticker-CM.png" alt="Cover" width="300"></p>
 IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 <br>
 <br>
