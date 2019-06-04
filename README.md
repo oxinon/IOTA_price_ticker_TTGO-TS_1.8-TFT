@@ -50,6 +50,6 @@ CoinMarketCapApi.h <p>
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/field-test2.png" alt="Cover" width="100"></p>
 <br>
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/field-test.png" alt="Cover" width="100"></p>
+<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/Display-Mapping2.png" alt="Cover" width="100"></p>
 <br>
 
