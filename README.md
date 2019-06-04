@@ -1,10 +1,12 @@
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Price-Ticker.png" alt="Cover" width="400"></p>
 
-Simple IOTA price ticker by using TTGO-TS_1.8 TFT and CoinMarketcap API for Arduino IDE
 <br>
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Ticker-CM.png" alt="Cover" width="300"></p>
+
+Simple IOTA price ticker by using TTGO-TS_1.8 TFT and CoinMarketcap API for Arduino IDE
+<br>
 IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 <br>
 <br>
@@ -46,7 +48,7 @@ CoinMarketCapApi.h <p>
 <a name="issue"></a><h2>Screen shifting Issue</h2>
 
 
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/Display-Mapping.png" alt="Cover" width="100"></p>
+<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/field-test2.png" alt="Cover" width="100"></p>
 <br>
 <p><img src="https://oxinon.com/wp-content/uploads/2019/03/field-test.png" alt="Cover" width="100"></p>
 <br>
