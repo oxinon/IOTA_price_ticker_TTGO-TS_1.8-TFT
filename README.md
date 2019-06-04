@@ -37,12 +37,6 @@ CoinMarketCapApi.h <p>
 <br>
 <br>
 
-<a name="function"></a><h2>The Function</h2>
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/BTC-ticker.png" alt="Cover" width="100"></p>
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/BTC-change-ticker.png" alt="Cover" width="100"></p>
-<p><img src="https://oxinon.com/wp-content/uploads/2019/03/BTC-error-ticker.png" alt="Cover" width="100"></p>
-
-<br>
 <br>
 
 <a name="issue"></a><h2>Screen shifting Issue</h2>
