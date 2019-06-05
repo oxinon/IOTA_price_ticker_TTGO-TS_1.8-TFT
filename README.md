@@ -32,7 +32,7 @@ Now we add libraries for Arduino IDE:
 
 Adafruit_GFX.h <p>
 Adafruit_ST7735.h (see "Screen shifting Issue" Adafruit_ST7735_and_ST7789_Library-TS18 if you have Screen shifting)<p>
-ArduinoJson.h <p> (please use version from "Aruinojson by Benholt Blanchon Version 5.13.4")
+ArduinoJson.h  (please use version from "Aruinojson by Benholt Blanchon Version 5.13.4")<p> 
 CoinMarketCapApi.h <p>
   If you are have problem with the "wifi.h" delte the arduino/libraries/wiFi directory, you can use the esp32 WiFi.h
 <br>
@@ -42,9 +42,10 @@ CoinMarketCapApi.h <p>
 
 <a name="issue"></a><h2>Screen shifting Issue</h2>
 
+<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/Display-Mapping2.png" alt="Cover" width="200"></p>
+<br>
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/field-test2.png" alt="Cover" width="200"></p>
 <br>
-<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/Display-Mapping2.png" alt="Cover" width="200"></p>
-<br>
+
 
