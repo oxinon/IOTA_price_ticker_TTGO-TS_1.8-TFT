@@ -15,7 +15,6 @@ IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 
 + [Add ESP32 Arduino IDE](#ESP32)
 + [Libraries for Arduino IDE](#libraries)
-+ [The function](#function)
 + [Screen shifting Issue](#issue)
 
 * * *
@@ -30,7 +29,7 @@ In board selector you can select "ESP32 Dev Module" for TTGO-TS.
 <a name="libraries"></a><h2>Libraries for Arduino IDE</h2>
 Now we add libraries for Arduino IDE:
 
-Adafruit_GFX.h <p>
+<b>Adafruit_GFX.h</b><p>
 Adafruit_ST7735.h (see "Screen shifting Issue" Adafruit_ST7735_and_ST7789_Library-TS18 if you have Screen shifting)<p>
 ArduinoJson.h  (please use version from "Aruinojson by Benholt Blanchon Version 5.13.4")<p> 
 CoinMarketCapApi.h <p>
