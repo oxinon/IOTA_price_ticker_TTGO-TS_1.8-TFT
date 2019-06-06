@@ -30,9 +30,9 @@ In board selector you can select "ESP32 Dev Module" for TTGO-TS.
 Now we add libraries for Arduino IDE:
 
 <b>Adafruit_GFX.h</b><p>
-Adafruit_ST7735.h (see "Screen shifting Issue" Adafruit_ST7735_and_ST7789_Library-TS18 if you have Screen shifting)<p>
-ArduinoJson.h  (please use version from "Aruinojson by Benholt Blanchon Version 5.13.4")<p> 
-CoinMarketCapApi.h <p>
+  <b>Adafruit_ST7735.h</b> (see "Screen shifting Issue" Adafruit_ST7735_and_ST7789_Library-TS18 if you have Screen shifting)<p>
+<b>ArduinoJson.h</b>  (please use version from "Aruinojson by Benholt Blanchon Version 5.13.4")<p> 
+  <b>CoinMarketCapApi.h</b><p>
   If you are have problem with the "wifi.h" delte the arduino/libraries/wiFi directory, you can use the esp32 WiFi.h
 <br>
 <br>
