@@ -1,10 +1,17 @@
+// This is a simple price ticker for the esp32 based TTGO-TS 1.8 TFT,
+// the data come from Coinmarketcap.com
+// Code on Github https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT
+// Importen to know is that you are use the right library, and the screen shifting issue is solved when 
+// you edit the Adafruit_ST7735.h manualy, or download "Adafruit_ST7735_and_ST7789_Library-TS18"
+// and replace the "Adafruit_ST7735_and_ST7789_Library" !
+
 #include <CoinMarketCapApi.h>
 
-#include <WiFi.h>
+#include <WiFi.h> // use the esp32 WiFi.h library, delete the stock WiFi.h !
 #include <WiFiClientSecure.h>
 
 #include <Adafruit_GFX.h>    // Core graphics library
-#include <Adafruit_ST7735.h> // Hardware-specific library
+#include <Adafruit_ST7735.h> // Hardware-specific library use version from "Aruinojson by Benholt Blanchon Version 5.13.4
 #include <SPI.h>
 
 #include <ArduinoJson.h>
@@ -16,7 +23,7 @@
 #define TFT_MOSI 23
 Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RST);
 
-
+// supportet colors
 #define ST7735_BLACK   0x0000
 #define ST7735_GRAY    0x8410
 #define ST7735_WHITE   0xFFFF
@@ -44,7 +51,7 @@ CoinMarketCapApi api(client);
 unsigned long api_mtbs = 60000; //mean time between api requests
 unsigned long api_due_time = 0;
 
-
+// bootsplash image logo
 static const unsigned char PROGMEM logo_iota_start[] =
 {0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
 ,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
@@ -149,6 +156,7 @@ static const unsigned char PROGMEM logo_iota_start[] =
   
 };
 
+// ticker img logo
 static const unsigned char PROGMEM logo_iota[] =
 {0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
 ,0x00,0x00,0x00,0x00,0x00,0x00,0x00,0x00
@@ -218,6 +226,7 @@ void setup() {
   
    
   Serial.begin(115200);
+  
   // Use this initializer if you're using a 1.8" TFT
   tft.initR(INITR_BLACKTAB);   // initialize a ST7735S chip, black tab
   uint16_t time = millis();
@@ -290,7 +299,7 @@ void printTickerData(String ticker) {
   // Ticker unfortunately is not the symbol for some reason.
   // Go to CoinMarketCap.com and select the coin you would like to check
   // The ticker name makes up the last part of the URL
-  // e.g: http://coinmarketcap.com/currencies/bitcoin/ , "bitcoin" is the ticker value
+  // e.g: http://coinmarketcap.com/currencies/iota/ , "iota" is the ticker value
 
   // Currency is optional, so you can pass only ticker if you want.
   // Check out the currency drop down on CoinMarketCap.com to get available values
