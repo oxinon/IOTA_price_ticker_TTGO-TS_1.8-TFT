@@ -21,6 +21,7 @@ IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 
 * * *
 
+<br>
 <a name="ESP32"></a><h2>Add ESP32 in Arduino IDE</h2>
 Before we can start compiling, the Arduino must have the TTGO-TS board, based on an ESP32 in the board selection available.
 The instruction on https://randomnerdtutorials.com/installing-the-esp32-board-in-arduino-ide-windows-instructions/
