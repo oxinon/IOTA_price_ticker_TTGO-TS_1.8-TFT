@@ -13,6 +13,8 @@ IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 
 * * *
 
+<b>Index of this project</b>
+
 + [Add ESP32 Arduino IDE](#ESP32)
 + [Libraries for Arduino IDE](#libraries)
 + [Screen shifting Issue](#issue)
