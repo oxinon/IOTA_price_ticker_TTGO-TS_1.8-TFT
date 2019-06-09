@@ -5,7 +5,7 @@
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Ticker-CM.png" alt="Cover" width="300"></p>
 
-Simple IOTA price ticker by using TTGO-TS_1.8 TFT and CoinMarketcap API for the Arduino IDE platform
+Simple IOTA price ticker by using ESP32 besed TTGO-TS_1.8 TFT and CoinMarketcap API for the Arduino IDE platform
 <br>
 IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 <br>
@@ -18,6 +18,7 @@ IOTA ticker on Youtube: https://www.youtube.com/watch?v=napduhMtkBk&t=94s
 + [Add ESP32 Arduino IDE](#ESP32)
 + [Libraries for Arduino IDE](#libraries)
 + [Screen shifting Issue](#issue)
++ [Additional information](#additional)
 
 * * *
 
@@ -50,7 +51,12 @@ Now we add libraries for Arduino IDE:
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/libery.png" alt="Cover" width="200"></p>
 <br>
 
+<a name="additional"></a><h2>Additional information</h2>
+
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/field-test2.png" alt="Cover" width="200"></p>
 <br>
 
+* * *
 
+If you like my work, you can give me a tip for a beer :)<br>
+Donate IOTA: CIMRZOWYFUGYRFUGBJRBDIILCUBNCNNBMYCJDFVJN9HRCNXQAPFRMHUI9KOQCQGXTZIKFFBJLRUJUUZPYEAZEWOXAX
