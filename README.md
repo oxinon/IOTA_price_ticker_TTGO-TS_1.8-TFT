@@ -56,6 +56,9 @@ Now we add libraries for Arduino IDE:
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/field-test2.png" alt="Cover" width="200"></p>
 <br>
 
+An SPI display is not the fastest to build the pixels, to make this faster, filled first only the colored marked fields with black and then built up with the new numbers.
+
+
 * * *
 
 If you like my work, you can give me a tip for a beer :)<br>
