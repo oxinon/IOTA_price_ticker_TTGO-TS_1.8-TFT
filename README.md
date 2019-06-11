@@ -51,7 +51,12 @@ Now we add libraries for Arduino IDE:
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/Display-Mapping2.png" alt="Cover" width="200"></p>
 <br>
 
+<p>if the display does not fit pixel mapping (see picture) Just use the libary "Adafruit_ST7735_and_ST7789_Library-TS18" provided here and replace it.</p>
+
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/libery.png" alt="Cover" width="200"></p>
+<p>
+This is a modification of the Adafruit_ST77XX.h change the register 0x3 to 0x0, 
+That's all.</p>
 <br>
 
 <a name="additional"></a><h2>Additional information</h2>
@@ -66,4 +71,6 @@ An SPI display is not the fastest to build the pixels, to make this faster, fill
 
 If you like my work, you can give me a tip for a beer :)<br>
 <b>Donate IOTA address:</b> 
-CIMRZOWYFUGYRFUGBJRBDIILCUBNCNNBMYCJDFVJN9HRCNXQAPFRMHUI9KOQCQGXTZIKFFBJLRUJUUZPYEAZEWOXAX
+CIMRZOWYFUGYRFUGBJRBDIILCUBNCNNBMYCJDFVJN9HRCNXQAPFRMHUI9KOQCQGXTZIKFFBJLRUJUUZPYEAZEWOXAX <br>
+
+<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/qrcode.png" alt="Cover" width="200"></p>
