@@ -70,7 +70,7 @@ An SPI display is not the fastest to build the pixels, to make this faster, fill
 * * *
 
 If you like my work, you can give me a tip for a beer :)<br>
-<b>Donate IOTA address:</b> 
+<b>IOTA Donate address:</b> 
 CIMRZOWYFUGYRFUGBJRBDIILCUBNCNNBMYCJDFVJN9HRCNXQAPFRMHUI9KOQCQGXTZIKFFBJLRUJUUZPYEAZEWOXAX <br>
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/qrcode.png" alt="Cover" width="200"></p>
