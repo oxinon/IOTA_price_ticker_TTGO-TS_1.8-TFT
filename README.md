@@ -55,7 +55,7 @@ Now we add libraries for Arduino IDE:
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/libery.png" alt="Cover" width="200"></p>
 <p>
-This is a modification of the Adafruit_ST77XX.h change the register 0x3 to 0x0, 
+This is a modification of the Adafruit_ST7735.h change the register 0x3 to 0x0, 
 That's all.</p>
 <br>
 
