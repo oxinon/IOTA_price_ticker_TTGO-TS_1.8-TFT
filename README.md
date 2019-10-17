@@ -1,3 +1,6 @@
+<p>!!! Please use this not more, this is outdatet !!!</p>
+<p>!!! This will be updatet with another board soon, with new futures !!!</p>
+
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Price-Ticker.png" alt="Cover" width="400"></p>
 
