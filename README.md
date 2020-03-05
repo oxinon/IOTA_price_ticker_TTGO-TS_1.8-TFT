@@ -32,6 +32,10 @@ The instruction on https://randomnerdtutorials.com/installing-the-esp32-board-in
 In board selector you can select "ESP32 Dev Module" for TTGO-TS.
 <br>
 <br>
+For MAC users install the "CP210x USB to UART Bridge VCP Drivers" from Silicon Labs, the port to select is /dev/cu.SLAB_USBtoUART in Arduino IDE unter tools-->Port
+https://www.silabs.com/community/interface/knowledge-base.entry.html/2017/01/10/legacy_os_softwarea-bgvU
+<br>
+<br>
 
 <a name="libraries"></a><h2>Libraries for Arduino IDE</h2>
 Now we add libraries for Arduino IDE:
