@@ -16,6 +16,8 @@
 
 #include <ArduinoJson.h>
 
+#define BL    27 // Backlight pin
+
 #define TFT_CS 16
 #define TFT_RST 9
 #define TFT_DC 17
@@ -39,8 +41,8 @@ Adafruit_ST7735 tft = Adafruit_ST7735(TFT_CS, TFT_DC, TFT_MOSI, TFT_SCLK, TFT_RS
 #define ST7735_PINK    0xF8FF
 
 //------- Replace the following! ------
-char ssid[] = "YOUR-AP";       // your network SSID (name)
-char password[] = "YOUR-PASS";  // your network key
+char ssid[] = "WIFI-SSID";       // your network SSID (name)
+char password[] = "WIFI-PASSWORD";  // your network key
 
 
 WiFiClientSecure client;
@@ -226,6 +228,8 @@ void setup() {
   
    
   Serial.begin(115200);
+   pinMode(BL, OUTPUT);
+   digitalWrite(BL, HIGH);
   
   // Use this initializer if you're using a 1.8" TFT
   tft.initR(INITR_BLACKTAB);   // initialize a ST7735S chip, black tab
