@@ -1,5 +1,11 @@
 <p>!!! Please use this not more, this is outdatet !!!</p>
-<p>!!! This will be updatet with another board soon, with new futures !!!</p>
+
+<br>
+<br>
+<b>!!! Please do not use it, because the Coimarketcap is no longer available !!!</b> <br>
+uUpdate is planned for coingecko
+<br>
+<br>
 
 
 <p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/IOTA-Price-Ticker.png" alt="Cover" width="400"></p>
