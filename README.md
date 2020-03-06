@@ -3,7 +3,6 @@
 <br>
 <br>
 <b>!!! Please do not use it, because the Coimarketcap is no longer available !!!</b> <br>
-uUpdate is planned for coingecko
 <br>
 <br>
 
