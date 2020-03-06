@@ -2,7 +2,7 @@
 
 <br>
 <br>
-<b>!!! Please do not use it, because the Coimarketcap is no longer available !!!</b> <br>
+<b>!!! Please do not use it, because the Coimarketcap API is no longer available !!!</b> <br>
 <br>
 <br>
 
