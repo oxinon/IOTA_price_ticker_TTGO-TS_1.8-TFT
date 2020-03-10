@@ -81,8 +81,8 @@ An SPI display is not the fastest to build the pixels, to make this faster, fill
 
 * * *
 
-If you like my work, you can give me a tip for a beer :)<br>
+If you like my work, you can give me a tip for a beer :)<br><br>
 <b>IOTA Donate address:</b> 
-CIMRZOWYFUGYRFUGBJRBDIILCUBNCNNBMYCJDFVJN9HRCNXQAPFRMHUI9KOQCQGXTZIKFFBJLRUJUUZPYEAZEWOXAX <br>
+EDNXLYOLMNKISRPBN99DQOO9RWOHTIGTRQOCXPKTZIUUKNCYJDJUS9XHXSIPEMNNSHZHVQZQSSWWVWSH9GVUYGNQT9 <br>
 
-<p><img src="https://github.com/oxinon/IOTA_price_ticker_TTGO-TS_1.8-TFT/blob/master/picture/qrcode.png" alt="Cover" width="200"></p>
+<p><img src="https://github.com/oxinon/IOTA-price-ticker-V2-TTGO-T-Display/blob/master/picture/qrcode.png" alt="Cover" width="200"></p>
